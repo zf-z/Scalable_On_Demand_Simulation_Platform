@@ -1,4 +1,4 @@
-### An Open-Sourced Network-Based Large-Scale Simulation Platform for Shared Mobility Operations
+### A large-scale and scalable simulation platform for on-demand ride-sourcing services
 
 ![效果图](https://img.shields.io/static/v1?label=build&message=passing&color=green) ![](https://img.shields.io/static/v1?label=python&message=3&color=blue) ![](https://img.shields.io/static/v1?label=release&message=2.0&color=green) ![](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 
@@ -20,14 +20,12 @@ Establish an open-sourced network-based simulation platform for shared mobility 
 
 1. Download the code.
 
-`git clone git@github.com:HKU-Smart-Mobility-Lab/Transpotation_Simulator.git`
-
 2. Download the dependencies and libraries.
 
 `conda env create -f environment.yml`
 
 ### Download Data
-Here, we provide you data for Manhattan that we used in our experiments. You can download it from Onedrive.https://connecthkuhk-my.sharepoint.com/:f:/g/personal/ctj21_connect_hku_hk/EmQj0_wys2ZCq2MQqNF3BvABr8K8ZQsaK7dsUPw9lCu9EQ?e=HXKx0j). And due to the data privacy, we can not provide you the data for Hong Kong and Chengdu.
+Due to the data privacy, we can not provide you the data for Hong Kong and Chengdu.
 
 ### File Structure
 
@@ -153,33 +151,21 @@ You can modify the parameters in [config.py](https://github.com/HKU-Smart-Mobili
 
 
 
-
-
-
-### Technical questions
-
-We welcome your contributions.
-
-- Please report bugs and improvements by submitting [GitHub issue](https://github.com/HKU-Smart-Mobility-Lab/Transpotation_Simulator/issues).
-- Submit your contributions using [pull requests](https://github.com/HKU-Smart-Mobility-Lab/Transpotation_Simulator/pulls). 
-
-
-
 ### Contributors
 
-This simulator is supported by the [Smart Mobility Lab](	https://github.com/HKU-Smart-Mobility-Lab) at The Univerisity of Hong Kong and [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home) at The Hong Kong University of Science and Technology.
+This simulator is supported by the [Intelligent Transportation Systems (ITS) Laboratory](https://sites.google.com/view/hkustits/home) at The Hong Kong University of Science and Technology and [Smart Mobility Lab](	https://github.com/HKU-Smart-Mobility-Lab) at The Univerisity of Hong Kong.
 
 
 
 ### Ownership
 
-The ownership of this repository is Prof. Hai Yang, Dr. Siyuan Feng from ITS Lab at The Hong Kong University of Science and Technology and Dr. Jintao Ke from SML at The Univerisity of Hong Kong.
+The ownership of this repository is Prof. Hai Yang, Dr. Siyuan Feng, Dr. Zhengfei Zheng from ITS Lab at The Hong Kong University of Science and Technology and Dr. Jintao Ke from SML at The Univerisity of Hong Kong.
 
 ###  Citing
 
 If you use this simulator for academic research, you are highly encouraged to cite our paper:
 
-Feng S., Chen T., Zhang Y., Ke J.* & H. Yang, 2023. A multi-functional simulation platform for on-demand ride service operations. Preprint at ArXiv:2303.12336. https://doi.org/10.48550/arXiv.2303.12336
+Feng S., Chen T., Zhang Y., Ke J.*, Zheng Z & H. Yang, 2023. A multi-functional simulation platform for on-demand ride service operations. Preprint at ArXiv:2303.12336. https://doi.org/10.48550/arXiv.2303.12336
 
 
 
