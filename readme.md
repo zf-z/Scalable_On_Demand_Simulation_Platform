@@ -7,7 +7,6 @@
 Establish an open-sourced network-based simulation platform for shared mobility operations. The simulation explicitly characterizes drivers’ movements on road networks for trip delivery, idle cruising, and en-route pick-up. 
 
 
-
 ### Contributions
 
 • We develop a comprehensive, multi-functional and open-sourced simulator for ride-sourcing service, which can be used by both researchers and industrial practitioners on a variety of operational tasks. The proposed simulation platform overcomes a few challenges faced by previous simulators, including the closeness to reality, representation of customers’ and drivers’ heterogeneous behaviors, generalization for different tasks. 
@@ -148,6 +147,7 @@ You can modify the parameters in [config.py](https://github.com/HKU-Smart-Mobili
 
 ### Tutorials
 
+Please see the demo video of visuliazation: https://github.com/zf-z/Scalable_On_Demand_Simulation_Platform/blob/main/Visualization_compressed.mp4
 
 
 
